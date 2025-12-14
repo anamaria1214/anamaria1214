@@ -1,11 +1,8 @@
-# ¡Hola, soy Ana María! 👋
+# Hi, I'm Ana María! 👋
 
-### Desarrolladora apasionada por crear soluciones digitales 💻✨
+### Developer passionate about creating digital solutions 💻✨
 
-Soy entusiasta de la tecnología enfocada en Desarrollo Web. Me encanta aprender nuevas herramientas y colaborar en proyectos que generen un impacto positivo.
-
-### 🛠️ Mi Stack Tecnológico
-
+I am enthusiastic about technology focused on web development. I love learning new tools and collaborating on projects that have a positive impact.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ana-maría-cuellar-giraldo-6a8968276) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anicu2314@gmail.com) 
